@@ -9,3 +9,5 @@
 
 
 - git pull origin master --allow-unrelated-histories
+
+- git remote add origin git@github.com:Personal-Practise-Projects/00-docs.git
