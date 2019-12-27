@@ -7,7 +7,7 @@
 ####Can I specify multiple users for myself in .gitconfig?
 - https://stackoverflow.com/questions/4220416/can-i-specify-multiple-users-for-myself-in-gitconfig
 
-
 - git pull origin master --allow-unrelated-histories
-
 - git remote add origin git@github.com:Personal-Practise-Projects/00-starter.git
+
+
