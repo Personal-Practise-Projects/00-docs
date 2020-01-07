@@ -143,7 +143,7 @@ Syntax highlighting
 ---
 
 ### HTML Refs
-* [HTML DOM scrollIntoView](https://www.w3schools.com/jsref/met_element_scrollintoview.asp)
+- [HTML DOM scrollIntoView](https://www.w3schools.com/jsref/met_element_scrollintoview.asp)
 
 
 
@@ -166,34 +166,29 @@ Syntax highlighting
 - [text-indent](https://css-tricks.com/almanac/properties/t/text-indent/)
   - `text-indent: 1.5em;`
 - [Codeburst.io](https://codeburst.io/css-grid-layout-simple-guide-e0296cf14fe8)
-
-* [Styling Based on Scroll Position](https://css-tricks.com/styling-based-on-scroll-position/)
-* [Place an item at a fixed position in a scrolling div](https://stackoverflow.com/questions/48607664/place-an-item-at-a-fixed-position-in-a-scrolling-div)
-* [Grid Layout Guide](https://codeburst.io/css-grid-layout-simple-guide-e0296cf14fe8)
-
-* [Gray to Color logos](https://codepen.io/Jp-marked-South-africa/pen/qdQvrW)
-
-* [Red Stapler](https://redstapler.co/css-perspective-text-hover-effect-tutorial/)
-
+- [Styling Based on Scroll Position](https://css-tricks.com/styling-based-on-scroll-position/)
+- [Place an item at a fixed position in a scrolling div](https://stackoverflow.com/questions/48607664/place-an-item-at-a-fixed-position-in-a-scrolling-div)
+- [Grid Layout Guide](https://codeburst.io/css-grid-layout-simple-guide-e0296cf14fe8)
+- [Gray to Color logos](https://codepen.io/Jp-marked-South-africa/pen/qdQvrW)
+- [Red Stapler](https://redstapler.co/css-perspective-text-hover-effect-tutorial/)
+- [matrix()](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/matrix)
 ---
 
 ### Bootstrap Ref
-
-* [Bootstrap Tabs and Pills](https://www.w3schools.com/bootstrap/bootstrap_tabs_pills.asp)
+- [Bootstrap Tabs and Pills](https://www.w3schools.com/bootstrap/bootstrap_tabs_pills.asp)
 ---
 
 ### Color Ref
-
 - [Coolors - Color palette generator](https://coolors.co/)
-* [Khroma](http://khroma.co/) 
-* [Color Hunt](https://colorhunt.co/)
-* [Culrs](https://culrs.com/#/) 
-* [Color Leap](https://colorleap.app/home) 
+- [Khroma](http://khroma.co/) 
+- [Color Hunt](https://colorhunt.co/)
+- [Culrs](https://culrs.com/#/) 
+- [Color Leap](https://colorleap.app/home) 
 
 ### Handy Websites 
 
-* [Picksome](https://picsum.photos/200/300)
-* [DOCSIE - Create and Publish Dynamic Product Documentation](https://www.docsie.io/)
+- [Picksome](https://picsum.photos/200/300)
+- [DOCSIE - Create and Publish Dynamic Product Documentation](https://www.docsie.io/)
 
 ---
 
@@ -207,23 +202,23 @@ Syntax highlighting
 - [Full Page Js](https://github.com/alvarotrigo/fullPage.js)
 - [Splitting JS](https://splitting.js.org/guide.html)
 - [How to check whether a string contains a substring in JavaScript](https://stackoverflow.com/questions/1789945/how-to-check-whether-a-string-contains-a-substring-in-javascript)
-* [Redirect to another page using JS](https://stackoverflow.com/questions/503093/how-do-i-redirect-to-another-webpage)
-* [The Window Object](https://www.w3schools.com/jsref/obj_window.asp)
+- [Redirect to another page using JS](https://stackoverflow.com/questions/503093/how-do-i-redirect-to-another-webpage)
+- [The Window Object](https://www.w3schools.com/jsref/obj_window.asp)
 
-* [10 Tips for Javascript Debugging Like a PRO with Console](https://medium.com/appsflyer/10-tips-for-javascript-debugging-like-a-pro-with-console-7140027eb5f6)
+- [10 Tips for Javascript Debugging Like a PRO with Console](https://medium.com/appsflyer/10-tips-for-javascript-debugging-like-a-pro-with-console-7140027eb5f6)
 
-* [JS Console Advance Features](https://medium.freecodecamp.org/how-to-get-the-most-out-of-the-javascript-console-b57ca9db3e6d)
+- [JS Console Advance Features](https://medium.freecodecamp.org/how-to-get-the-most-out-of-the-javascript-console-b57ca9db3e6d)
 
 
-* [Array Prototype Mthods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/prototype)
+- [Array Prototype Mthods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/prototype)
 
 
 ---
 
 ### Jquery Refs
 
-* [Jquery Click Method](https://www.w3schools.com/jquery/event_click.asp)
-* [Scroll to position with jQuery](https://web-design-weekly.com/snippets/scroll-to-position-with-jquery/) 
+- [Jquery Click Method](https://www.w3schools.com/jquery/event_click.asp)
+- [Scroll to position with jQuery](https://web-design-weekly.com/snippets/scroll-to-position-with-jquery/) 
 
 ---
 
@@ -266,7 +261,7 @@ Syntax highlighting
 
 - [Top 8 Chrome Extensions for Frontend Developers](https://www.youtube.com/watch?v=qzpO2rBdNoQ)
 
-* Here are the links of each plugin:
+- Here are the links of each plugin:
 
 1. [CSS Scan](https://getcssscan.com/)
 2. [Keyframes](https://keyframes.app/)
@@ -292,14 +287,14 @@ Syntax highlighting
 
 
 # Programming Principles
-* [Ref](https://www.instagram.com/p/Bw9wH9EBwqs/)
+- [Ref](https://www.instagram.com/p/Bw9wH9EBwqs/)
 01. DRY - Don't Repeat Yourself
 02. KISS - Keep It Simple Stupid
 03. YAGNI - You Aren't Gonna Need It
 04. SoC - Separation of Concerns
 05. BDUF - Big Design Up Front
 
-* [Websites Teach Programming for Free](https://www.instagram.com/p/Bw_WGt6BjGt/)
+- [Websites Teach Programming for Free](https://www.instagram.com/p/Bw_WGt6BjGt/)
 01. Udemy
 02. Khan Academy
 03. Github
@@ -308,7 +303,7 @@ Syntax highlighting
 06. Code Avengers
 07. Codecademy
 
-* [VS Code Extensions](https://www.instagram.com/p/Bw8Oc59BZzW/)
+- [VS Code Extensions](https://www.instagram.com/p/Bw8Oc59BZzW/)
 01. Project Manager
 02. Rainbow Brackets
 03. Auto Close Tags
@@ -322,7 +317,7 @@ Syntax highlighting
 ## Quovantis Technologies
 
 
-* Use Full Tools
-  * [Loom - Video recording, simplified.](https://www.loom.com)
-  * [Amazon AWS Athena](https://aws.amazon.com/athena/)
+- Use Full Tools
+  - [Loom - Video recording, simplified.](https://www.loom.com)
+  - [Amazon AWS Athena](https://aws.amazon.com/athena/)
   
