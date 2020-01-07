@@ -14,4 +14,3 @@
 - [React With Contentful](https://www.youtube.com/results?search_query=react+with+contentful)
 - [In-Depth React Tutorial: Build a Hotel Reservation Site (with Contentful and Netlify)](https://www.youtube.com/watch?v=LXJOvkVYQqA)
 - [TODO not recognized in JSX comments](https://youtrack.jetbrains.com/issue/WEB-23401)
-
